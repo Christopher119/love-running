@@ -118,6 +118,18 @@ footer {
         display: none;
     }
 
+    #logo {
+        font-size: 280%
+        line-height: 75px;
+        margin: 0.75rem;
+    }
+
+    /*Main content*/
+    main {
+        /*Push main content down to accomodate header*/
+        margin-top: 62px;
+    }
+
 }
 
 / * Media query: laptops and larger ( and up)
